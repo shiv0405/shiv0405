@@ -6,7 +6,7 @@ This profile highlights projects that I build and maintain directly across analy
 
 ## Featured Repositories
 
-- `customer-churn-analytics` (public) - Predictive churn modeling, KPI analysis, and stakeholder-ready insights.
+- `customer-churn-analytics` (public) - Predictive churn modeling, KPI analysis, and retention reporting.
 - `portfolio-health-api` (public) - Production-oriented Flask API for portfolio health, renewal risk, and intervention planning.
 - `cloud-governance-finops-platform` (public) - Production-oriented cloud governance and FinOps platform with Terraform and executive reporting.
-- `operations-intelligence-hub` (public) - Executive-grade operations analytics project with Power BI delivery assets and reporting outputs.
+- `operations-intelligence-hub` (public) - Operations analytics project with Power BI delivery assets and reporting outputs.
