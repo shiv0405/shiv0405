@@ -1,14 +1,22 @@
 # Shivangi Ratnu
 
-Machine Learning Engineer focused on applied forecasting, decision-support systems, and analytics workflows built on complex operational data.
+Data and analytics professional working across business intelligence, data analytics, machine learning, forecasting, and data platform workflows.
 
 Email: `ratnushivangi@gmail.com`
 
 ## About Me
 
-I work on machine learning systems that turn fragmented operational and commercial data into reliable forecasting and decision-support tools. My work combines data engineering, feature design, experimentation pipelines, and reporting workflows so that models remain useful even when data patterns shift across regions, products, and business environments.
+I work on analytical systems that turn fragmented operational and commercial data into reliable reporting, forecasting, and decision-support tools. My work spans data preparation, SQL analysis, dashboarding, feature design, experimentation pipelines, and production-oriented analytics workflows so that outputs stay useful even when data patterns shift across regions, products, and business environments.
 
-I enjoy building ML workflows for real-world settings where teams need interpretable outputs, stable retraining processes, and practical reporting layers that support planning and operational decision-making.
+I enjoy working on problems where data has to move from raw source tables to something decision-ready: a clean analytical layer, a useful dashboard, a forecasting workflow, or a data product that teams can actually use in planning and operations.
+
+## Focus Areas
+
+- Business intelligence and dashboard development
+- Data analysis, SQL modeling, and KPI design
+- Forecasting, machine learning, and decision-support workflows
+- Data engineering for repeatable reporting and analytics pipelines
+- Cloud and backend delivery for analytics applications
 
 ## Experience
 
@@ -36,7 +44,18 @@ Ahmedabad, India | July 2018 - December 2021
 
 ## Skills
 
-### Forecasting and Predictive Modeling
+### Business Intelligence and Analytics
+
+- SQL
+- Power BI
+- Tableau
+- MicroStrategy
+- QlikView
+- KPI design
+- Reporting workflows
+- Exploratory and diagnostic analysis
+
+### Machine Learning and Forecasting
 
 - Time-series forecasting
 - Feature engineering
@@ -45,20 +64,14 @@ Ahmedabad, India | July 2018 - December 2021
 - Backtesting
 - Python with Pandas and Scikit-Learn
 
-### Data Analysis and Visualization
+### Data Engineering and Delivery
 
 - Python: `requests`, `selenium`, `BeautifulSoup`, `pandas`, `matplotlib`, `seaborn`, `sklearn`
-- SQL
 - Spark
-- Power BI
-- MicroStrategy
-- QlikView
-- Tableau
-
-### Data Pipelines and Cloud Workflows
-
 - Azure Data Factory
 - AWS: Lambda, ECS, EKS, S3, API Gateway, Serverless
+- FastAPI
+- PostgreSQL
 - Git and GitHub
 - GitLab
 - Docker
