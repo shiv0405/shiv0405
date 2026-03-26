@@ -1,4 +1,4 @@
-# Dhruv Sharma
+# Shivangi Ratnu
 
 ## Data Science, Analytics, Backend, AWS, and Entra Portfolio
 
