@@ -87,3 +87,6 @@ Ahmedabad, India | July 2018 - December 2021
 
 - [Operations Intelligence Hub](https://github.com/shiv0405/operations-intelligence-hub)  
   Operations analytics and Power BI project with large sample datasets, KPI modeling, scorecards, and reporting assets.
+
+- [Revenue Forecast Control Tower](https://github.com/shiv0405/revenue-forecast-control-tower)  
+  FastAPI, PostgreSQL, AWS Lambda, and TypeScript reporting platform for forecast monitoring, pipeline risk, scenario analysis, and dashboard delivery.
