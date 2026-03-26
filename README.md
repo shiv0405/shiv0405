@@ -90,3 +90,6 @@ Ahmedabad, India | July 2018 - December 2021
 
 - [Revenue Forecast Control Tower](https://github.com/shiv0405/revenue-forecast-control-tower)  
   FastAPI, PostgreSQL, AWS Lambda, and TypeScript reporting platform for forecast monitoring, pipeline risk, scenario analysis, and dashboard delivery.
+
+- [Customer Lifecycle Analytics Warehouse](https://github.com/shiv0405/customer-lifecycle-sql-analytics)  
+  SQL-first analytics warehouse for cohort retention, revenue bridge analysis, segment scorecards, renewal planning, and account-level risk review.
